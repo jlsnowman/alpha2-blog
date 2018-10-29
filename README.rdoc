@@ -1,6 +1,7 @@
 == README
 
-I'm a yankee doodle dandy,
+<p>I'm a yankee doodle dandy,</p>
+
 I'm a yankee doodle day
 The real life nephew of my Uncle Sam
 Born on the 4th of July!
